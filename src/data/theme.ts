@@ -1,6 +1,6 @@
 const theme = {
-    name: 'RedParts',
-    url: 'https://themeforest.net/item/redparts-auto-parts-react-ecommerce-template/28404847',
+    name: 'PartsMojo',
+    url: 'https://themeforest.net/item/PartsMojo-auto-parts-react-ecommerce-template/28404847',
     author: {
         name: 'Kos',
         profile_url: 'https://themeforest.net/user/kos9',
