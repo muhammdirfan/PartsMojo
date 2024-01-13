@@ -14,7 +14,7 @@ function PageTitle(props: Props) {
             <title>
                 {title}
                 {title ? ' — ' : ''}
-                PartsMojo
+                RedParts
             </title>
         </Head>
     );
