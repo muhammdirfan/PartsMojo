@@ -39,6 +39,10 @@ import Search20 from './search-20.svg';
 import Wishlist16 from './wishlist-16.svg';
 import ZoomIn24 from './zoom-in-24.svg';
 
+// logos svgs
+
+import LogoCOLORH from "./brand/Logo COLOR H.svg";
+
 export const ArrowDown9x6Svg = ArrowDown9x6;
 export const ArrowDownSm7x5Svg = ArrowDownSm7x5;
 export const ArrowRoundedDown9x6Svg = ArrowRoundedDown9x6;
@@ -79,3 +83,7 @@ export const RecycleBin16Svg = RecycleBin16;
 export const Search20Svg = Search20;
 export const Wishlist16Svg = Wishlist16;
 export const ZoomIn24Svg = ZoomIn24;
+
+// logos
+
+export const LogoCOLORHSvg = LogoCOLORH;

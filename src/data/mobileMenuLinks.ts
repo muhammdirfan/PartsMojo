@@ -177,7 +177,7 @@ const dataMobileMenuLinks: IMobileMenuLink[] = [
     },
     {
         title: 'Buy Theme',
-        url: 'https://themeforest.net/item/redparts-auto-parts-react-ecommerce-template/28404847',
+        url: 'https://themeforest.net/item/RedParts-auto-parts-react-ecommerce-template/28404847',
         customFields: {
             anchorProps: {
                 target: '_blank',
